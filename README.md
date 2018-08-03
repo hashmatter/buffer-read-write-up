@@ -2,13 +2,13 @@
 
 `buffer-read-write-up` is a sporadic newsletter filled with great content on
 decentralization and metadata resistant systems. Got an idea or suggestion? 
-[Open an issue!](https://github.com/gpestana/notes/issues)
+[Open an issue!](https://github.com/hashmatter/buffer-read-write-up/issues)
 
-## Batch 18-01
+## Batch 18x01
 
 ### papers
 
-- [x] [Crawling the DHT for fun and profit](https://www.usenix.org/event/woot10/tech/full_papers/Wolchok.pdf)
+- [Crawling the DHT for fun and profit](https://www.usenix.org/event/woot10/tech/full_papers/Wolchok.pdf)
 
 Ever wondered who's downloading what in BitTorrent? Scott Wolchok and J. 
 Alex Halderman, the authors of "Crawling the DHT for fun and profit" show how
@@ -34,26 +34,16 @@ operations. Thus, tier-2 replicas can only perform // TODO: finish!
 
 - [The future-proof cryptographic hashes](https://pascalprecht.github.io/posts/future-proofed-hashes-with-multihash/)
 
-// TODO: description
+> TODO: description
 
 ### others
 
 - [Textile Build - Free online workshop about the decentralized
   web](https://medium.com/textileio/announcing-textile-build-a-free-online-workshop-27472fd5d913)
 
-// TODO: description
+> TODO: description
 
 - [Awesome IPFS](https://awesome.ipfs.io/) just got even more awesome
 
-// TODO: description
-
----
-
-## Batch X
-### papers
-- [x] [paper_01](https://paper01.com)
-### articles
-- [ ] [article_01](https://article01.com)
-### others
-- [other_01](https://other01.com)
+> TODO: description
 
